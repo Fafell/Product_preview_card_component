@@ -47,10 +47,6 @@ body {
     font-weight: var(--fw-regular);
 }
 
-.product_img {
-    overflow: hidden;
-}
-
 img {
     width: 100%;
     display: block;
@@ -132,7 +128,7 @@ button:active {
 }
 
 /* query section */
-@media (530px < width){
+@media (500px < width){
     .product_card{
         grid-template-columns: 1fr 1fr;
     }
@@ -146,7 +142,7 @@ button:active {
     }
 
     img {
-        height: 450px;
+        height: 100%;
     }
 }
 
