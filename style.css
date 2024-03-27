@@ -128,7 +128,7 @@ button:active {
 }
 
 /* query section */
-@media (500px < width){
+@media only screen and (min-width: 500px) { 
     .product_card{
         grid-template-columns: 1fr 1fr;
     }
