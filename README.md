@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](./screenshot.jpg)
+![Preview](./images/Screenshot%202024-03-27%20at%2001-11-06%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
 ### Links
 
